@@ -18,4 +18,4 @@ Framework: Flutter
 
 API Integration: Uses dio or http for fetching news
 
-State Management: (Cubit أو الطريقة المستخدمة)
+
